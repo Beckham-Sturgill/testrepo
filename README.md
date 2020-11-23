@@ -1,2 +1,2 @@
 # testrepo
-IBM Intro to Git
+IBM Intro to Git through Coursera
